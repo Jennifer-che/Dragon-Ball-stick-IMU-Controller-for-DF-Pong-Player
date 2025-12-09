@@ -1,2 +1,2 @@
 # Dragon-Ball-stick-IMU-Controller-for-DF-Pong-Player
-   Based on imu_orientationData + DFpong_controller_startTemplate    Hold the Nano 33 IoT and swing it up and down like a dragon-dance staff to control the paddle.
+   The Dragon Ball Stick is an alternative motion-based controller designed for the browser game DF Pong. Inspired by the leading “dragon ball stick” used in Chinese dragon dances, the project translates ritualized group choreography into a solo, screen-based performance.
